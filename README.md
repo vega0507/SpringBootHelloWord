@@ -1,4 +1,6 @@
-"# SpringBootHelloWord" 
+# SpringBootHelloWord
+
+Proyecto de pruebas con spring boot 
 
 
 echo "# SpringBootHelloWord" >> README.md
